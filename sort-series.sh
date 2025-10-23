@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pattern='(.+)_S([0-9]{2,})E([0-9]{2,})_.*?([0-9]{3,})p_.*?_30nama\.(mkv|mp4)'
+pattern='(.+)_S([0-9]{2,})E([0-9]{2,}).*_([0-9]{3,})p_.*_30[Nn][Aa][Mm][Aa]\.(mkv|mp4)'
 
 for file in *; do
     if [[ -f "$file" ]]; then
