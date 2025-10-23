@@ -1,4 +1,4 @@
-# sort-my-series
+# Sort My 30nama
 A bash script which sorts and organizes [30nama](https://30nama.com) movie files into their specific directories by series name, season, and quality!
 
 ## Quick Run
