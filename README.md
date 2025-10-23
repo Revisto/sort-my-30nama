@@ -3,7 +3,7 @@ A bash script which sorts and organizes [30nama](https://30nama.com) movie files
 
 ## Quick Run
 ```bash
-curl -sSL https://raw.githubusercontent.com/Revisto/sort-my-files/main/sort-series.sh | bash
+curl -sSL https://raw.githubusercontent.com/Revisto/sort-my-30nama/master/sort-series.sh | bash
 ```
 
 ## Manual Usage
